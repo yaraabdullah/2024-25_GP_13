@@ -10,3 +10,11 @@ The goal of this project is to create a comprehensive mental health support appl
 - Backend: Firebase
 - Database: Firestore
 - AI Models: 
+
+### Launching Instructions
+1. Clone the repository:https://github.com/yaraabdullah/2024-25_GP_13
+2. Install the dependencies:
+3. Run the application:
+4. Access the web-based version:
+
+
