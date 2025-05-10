@@ -11,7 +11,7 @@ The goal of this project is to create a comprehensive mental health support appl
 2. **Firebase:** For backend services such as authentication, database management, and push notifications.
 3. **Google Colab:** For training and running the chatbot model.
 4. **FastAPI:** A modern Python web framework that can be used to expose the chatbot model as an API, which Flutter can interact with.
-5. **Google ML Kit:** Integrated for AI-driven facial recognition, used in the smile detection feature.
+
 
 ### Launching Instructions
 1. Clone the repository:https://github.com/yaraabdullah/2024-25_GP_13
