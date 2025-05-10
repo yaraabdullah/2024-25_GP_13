@@ -20,8 +20,8 @@ Download the APK file provided for the application from here : https://drive.goo
 
 • Installation Steps
 
-1-Copy the APK file to your Android device.
-2-Locate and open the APK file on your device.
-3-If prompted, enable “Install from unknown sources” in your device settings.
-4-Proceed with the installation.
+1. Copy the APK file to your Android device.
+2. Locate and open the APK file on your device.
+3. If prompted, enable “Install from unknown sources” in your device settings.
+4. Proceed with the installation.
 Once installed, you can run the app directly on your Android device — no emulator is required.
